@@ -19,7 +19,7 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
-string[] array1 = new string[5] {"56", "233", "geek", "brains", "mom"};
+string[] array1 = new string[5] {"356", "233", "geek", "brains", "mom"};
 string[] array2 = new string[array1.Length];
 
 ThreeOrLess(array1, array2);
